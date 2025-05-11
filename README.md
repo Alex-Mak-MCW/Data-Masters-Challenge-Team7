@@ -20,7 +20,7 @@ We tackled a real-world challenge in energy optimization for a large real estate
 ### The Problem:
 The REIT manages over 1,600 commercial buildings across North America and Europe is facing surging energy costs, carbon emission penalties, and significant inefficiencies in energy usage. Hence they would like to achieve the following objective:
 
-**Reduce energy waste by 20% within two years without compromising building functionality**.
+🎯 **Reduce energy waste by 20% within two years without compromising building functionality** 🎯
 
 ### Our Mission
 
