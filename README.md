@@ -50,10 +50,10 @@ We conducted four key phases:
 
 📂 This repository includes:
 
-- 📄 [Data Cleaning & EDA Notebook](./Team7_Preprocessing_and_EDA.ipynb)
-- 📄 [LSTM Model – by Location Notebook](team7_lstm_location.ipynb)
-- 📄 [LSTM Model – by Usage Notebook](team7_lstm_use.ipynb)
-- 📄 [GRU Model Notebook](team7_gru_use.ipynb)
+- 📄 [Data Cleaning & EDA Notebook](./Python_Notebooks/Preprocessing_and_EDA.ipynb)
+- 📄 [LSTM Model – by Location Notebook](./Python_Notebooks/LSTM_by_Location.ipynb)
+- 📄 [LSTM Model – by Usage Notebook](./Python_Notebooks/LSTM_by_Use.ipynb)
+- 📄 [GRU Model Notebook](./Python_Notebooks/GRU_by_use.ipynb)
 
 📌 We also prepared two written reports (not included here):
   - A technical report illustrating the entire data preprocessing and EDA pipeline
@@ -74,7 +74,8 @@ We conducted four key phases:
    ```bash
    git clone https://github.com/Alex-Mak-MCW/Data-Masters-Challenge-Team7.git
    ```
-2. Run the Python Notebook files you wish to try!
+2. Unzip the cleaned data from the data folder 
+3. Run the Python Notebook files you wish to try!
 
 ## Overall Findings
 
