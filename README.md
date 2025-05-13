@@ -1,4 +1,4 @@
-#  Energy Usage Forecast with Data Science & Machine Learning
+#  Energy Usage Forecast with Data Science & ML
 
 ## 📚 Table of Contents
 
